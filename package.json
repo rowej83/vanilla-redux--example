@@ -1,0 +1,19 @@
+{
+  "name": "redux-lesson",
+  "version": "1.0.0",
+  "description": "Basic Redux usage without React",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "redux": "4.0.0",
+    "uuid": "3.3.2"
+  },
+  "devDependencies": {
+    "@types/uuid": "3.4.4",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
